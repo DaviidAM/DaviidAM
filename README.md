@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @DaviidAM</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [Aeorum España S.L.](https://www.linkedin.com/company/aeorum/mycompany/)
+- 🔭 I’m currently working on **ROS**, **C++** and **Python**.
 
 - 🌱 I’m currently learning: **Unity, docker and machine learning**
 
