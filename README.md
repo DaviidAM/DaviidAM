@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm @DaviidAM</h1>
 <h3 align="center">Software Developer</h3>
 
+I'm an appasionated of **software development**, **Artificial Intelligence** and **video games**. Trying to expand my knowledge in all these sectors.
+
 - 🔭 I’m currently working on **ROS**, **C++** and **Python**.
 
 - 🌱 I’m currently learning: **Unity, docker and machine learning**
