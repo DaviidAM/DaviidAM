@@ -24,8 +24,4 @@ I'm an appasionated of **software development**, **Artificial Intelligence** and
 ✔️ <a href="https://www.udemy.com/course/curso-de-c-sharp-net-core-desde-cero/" target="_blank">Curso de C# .NET desde cero hasta lo más avanzado full stack</a> (2021)  
 ✔️ <a href="https://matlabacademy.mathworks.com/es/details/machine-learning-onramp/machinelearning" target="_blank">Machine Learning Onramp with Matlab</a> (2021)  
 ✔️ <a href="https://www.udemy.com/course/computer-vision-with-opencv-official-opencv-free-course" target="_blank">Computer Vision with OpenCV Python | Official OpenCV Course</a> (2022)  
-🔖 <a href="https://www.udemy.com/course/deep-learning-tensorflow-2" target="_blank">Tensorflow 2.0: Deep Learning and Artificial Intelligence</a> \
-🔖 <a href="https://www.coursera.org/learn/machine-learning#syllabus" target="_blank">Aprendizaje Automático</a> \
-🔖 <a href="https://es.coursera.org/learn/neural-networks-deep-learning#syllabus" target="_blank">Redes neurales y aprendizaje profundo</a> \
-🔖 <a href="https://www.edx.org/es/course/deep-learning-with-tensorflow?index=spanish_product&queryID=868ac25e9bfb39e25830a7c8c3e4cacc&position=2" target="_blank">Deep Learning with Tensorflow </a> 
 
