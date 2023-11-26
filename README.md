@@ -9,12 +9,15 @@ En mi portfolio, podrás ver algunos de mis trabajos más recientes. También po
 
 ### Habilidades
 
-<img src="assets/img/Python-icon.png" alt="drawing" width="50"/>
-<img src="assets/img/docker-icon.png" alt="drawing" width="100"/>
-<img src="assets/img/kubernetes-icon.png" alt="drawing" width="50"/>
-<img src="assets/img/aws-icon.png" alt="drawing" width="50"/>
-<img src="assets/img/kafka-icon.png" alt="drawing" width="80"/>
-<img src="assets/img/mongo-icon.webp" alt="drawing" width="50"/>
+<p align="center">
+    <img align="center" src="assets/img/Python-icon.png" alt="drawing" height="50px" width="50px" style='margin-right:4px'/>
+    <img align="center" src="assets/img/docker-icon.png" alt="drawing" height="50px" width="50px" style='margin-right:4px'/>
+    <img align="center" src="assets/img/kubernetes-icon.png" alt="drawing" height="50px" width="50px" style='margin-right:4px'/>
+    <img align="center" src="assets/img/aws-icon.png" alt="drawing" height="50px" width="50px" style='margin-right:4px'/>
+    <img align="center" src="assets/img/kafka-icon.png" alt="drawing" height="50px" width="50px" style='margin-right:4px'/>
+    <img align="center" src="assets/img/mongo-icon.webp" alt="drawing" height="50px" width="50px" style='margin-right:4px'/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
