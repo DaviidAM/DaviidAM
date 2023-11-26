@@ -9,14 +9,12 @@ En mi portfolio, podrás ver algunos de mis trabajos más recientes. También po
 
 ### Habilidades
 
-<p align="center">
-    <img align="center" src="assets/img/Python-icon.png" alt="drawing" height="80px" width="80px" style='margin-right:4px'/>
-    <img align="center" src="assets/img/docker-icon.png" alt="drawing" height="80px" width="80px" style='margin-right:4px'/>
-    <img align="center" src="assets/img/kubernetes-icon.png" alt="drawing" height="80px" width="80px" style='margin-right:4px'/>
-    <img align="center" src="assets/img/aws-icon.png" alt="drawing" height="80px" width="80px" style='margin-right:4px'/>
-    <img align="center" src="assets/img/kafka-icon.png" alt="drawing" height="80px" width="80px" style='margin-right:4px'/>
-    <img align="center" src="assets/img/mongo-icon.webp" alt="drawing" height="80px" width="80px" style='margin-right:4px'/>
-</p>
+<img align="center" src="assets/img/Python-icon.png" alt="drawing" height="80px" width="80px" style='margin-right:6px'/>
+<img align="center" src="assets/img/docker-icon.png" alt="drawing" height="80px" width="90px" style='margin-right:6px'/>
+<img align="center" src="assets/img/kubernetes-icon.png" alt="drawing" height="80px" width="80px" style='margin-right:6px'/>
+<img align="center" src="assets/img/aws-icon.png" alt="drawing" height="80px" width="80px" style='margin-right:6px'/>
+<img align="center" src="assets/img/kafka-icon.png" alt="drawing" height="80px" width="90px" style='margin-right:6px'/>
+<img align="center" src="assets/img/mongo-icon.webp" alt="drawing" height="80px" width="80px" style='margin-right:6px'/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
