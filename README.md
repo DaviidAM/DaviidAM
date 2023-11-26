@@ -9,7 +9,7 @@ En mi portfolio, podrás ver algunos de mis trabajos más recientes. También po
 
 ### Habilidades
 
-<p align="center">
+<p align="left">
     <img align="center" src="assets/img/Python-icon.png" alt="drawing" height="40px" width="40px" style='margin-right:6px'/>
     <img align="center" src="assets/img/docker-icon.png" alt="drawing" height="40px" width="50px" style='margin-right:6px'/>
     <img align="center" src="assets/img/kubernetes-icon.png" alt="drawing" height="40px" width="40px" style='margin-right:6px'/>
