@@ -27,6 +27,8 @@ In my portfolio, you can see some of my most recent work. You can also read abou
 
     Working in C++, ROS and Python creating applications to control devices like drones and rovers remotely.
 
+- **Degree in Electronics, robotics and mecatronics.** - Student (2013 - 2019)
+
 ### 📚 Courses
 
 ✔️ <a href="https://www.edx.org/es/course/introduction-to-video-game-development-with-unity" target="_blank">Introduction to video game development with unity</a> (2021)  
