@@ -1,9 +1,9 @@
 
 # <center>¡Hey 👋! I'm David 👨🏻‍💻 </center>
 
-#### <center>Software Developer with +5 years of experience. </center>
+#### <center>Backend Software Engineer with 6+ years of experience in backend and tech lead </center>
 
-I'm passionate about technology and thrive on creating innovative solutions that simplify and enhance everyday life. With a specialization in developing microservices applications and cloud deployments, I bring a unique blend of expertise and creativity to every project.
+I am a passionate Software Engineer with extensive experience in backend development, cloud solutions, and technical leadership. With a strong foundation in engineering and continuous professional growth, I thrive in challenging projects that demand creative problem-solving and technical excellence.
 
 Explore my portfolio to discover some of my latest work, showcasing the cutting-edge solutions I've developed. Dive into my skills and experience to see how I can help bring your ideas to life.
 
@@ -37,9 +37,9 @@ Explore my portfolio to discover some of my latest work, showcasing the cutting-
 
 ### 🗺️ My roadmap
 
-- **Vodafone VBPS** - Software developer (2021 - Now)
+- **Vodafone VBPS** - Software developer and Tech Lead (2021 - Now)
 
-    Working in python developing solutions in the cloud with microservices, using APIs, kafka, kubernetes and AWS services. Since mid 2023 working with a pod leader role.
+    Working in python developing solutions in the cloud with microservices, using APIs, kafka, kubernetes and AWS services. Since mid 2023 working with a tech lead role.
 
 - **Aeorum España S.L.** - Software developer (2018 - 2021)
 
