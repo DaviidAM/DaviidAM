@@ -10,7 +10,6 @@ Explore my portfolio to discover some of my latest work, showcasing the cutting-
 ### 🚀 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=black)
@@ -27,31 +26,29 @@ Explore my portfolio to discover some of my latest work, showcasing the cutting-
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 
 ### 📭 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/david-alba-martin-7bb565169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-alba-martin-7bb565169/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/daviid-am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daviid-am" height="40" width="40" /></a>
 </p>
 
-### 🗺️ My roadmap
+### 🗺️ My Roadmap
 
-- **Vodafone VBPS** - Software developer and Tech Lead (2021 - Now)
+- **Vodafone — Software Engineer & Technical Lead (2022–Now)**
 
-    Working in python developing solutions in the cloud with microservices, using APIs, kafka, kubernetes and AWS services. Since mid 2023 working with a tech lead role.
+Designing and developing backend cloud solutions with Python, microservices, and AWS. Led the team from architecture and DevOps through delivery, with a technical lead role since 2023, driving scalable platform design and directly engaging with clients.​
 
-- **Aeorum España S.L.** - Software developer (2018 - 2021)
+- **Aeorum España S.L. — Software Developer (2018–2022)**
 
-    Working in C++, ROS and Python creating applications to control devices like drones and rovers remotely.
+Built robotics and AI applications in C++, Python, and ROS for aerial and ground devices. Delivered core systems for object detection, mapping, and real-time control.​
 
-- **Degree in Electronics, robotics and mecatronics.** - Student (2013 - 2019)
+- **Degree in Electronics, Robotics and Mechatronics — Universidad de Málaga (2013–2019)​**
 
 ### 📚 Courses
 
-✔️ <a href="https://www.edx.org/es/course/introduction-to-video-game-development-with-unity" target="_blank">Introduction to video game development with unity</a> (2021)  
-✔️ <a href="https://www.udemy.com/course/curso-de-c-sharp-net-core-desde-cero/" target="_blank">Curso de C# .NET desde cero hasta lo más avanzado full stack</a> (2021)  
-✔️ <a href="https://matlabacademy.mathworks.com/es/details/machine-learning-onramp/machinelearning" target="_blank">Machine Learning Onramp with Matlab</a> (2021)  
-✔️ <a href="https://www.udemy.com/course/computer-vision-with-opencv-official-opencv-free-course" target="_blank">Computer Vision with OpenCV Python | Official OpenCV Course</a> (2022)  
-
-#
+- Tensorflow 2 & Keras Deep Learning Bootcamp (2025)​
+- Computer Vision with OpenCV Python (2022)
+- Machine Learning Onramp with Matlab (2021)
