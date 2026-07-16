@@ -7,7 +7,7 @@
 * I am a Backend Developer from Malaga, Spain 🇪🇸
 * Visit my Website (WIP).
 
-## 👨🏻‍💻 Tech stack
+## 👨🏻‍💻 Tech Stack
 
 ### Development
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
